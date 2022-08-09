@@ -36,7 +36,7 @@ for i in range(28):
              print(credits_defer,'Range error')
         
         if credits_fail % 10 != 0:
-             print(credit_fail,'Range error')
+             print(credits_fail,'Range error')
 
         if credits_total != 120: 
              print('Total incorrect', 'if the total of the pass, defer and fail credit is not 120')
